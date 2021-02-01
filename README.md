@@ -1,22 +1,22 @@
 # Weihnachtspiel-witch-chase
 
 ### Project description: 
-christmas themed game
+Christmas themed game
 
 ### Development platform: 
-Windows
+Windows 10, Unity 2020, Visual Studio 2019
 
 ### Target platform: 
-OS, Windows
+WebGl, res: 960 x 600 - screen independant
 
 ### Visuals: 
 
 ### Necessary setup/execution steps: 
-
+none
 ### Third party material: 
 
 ### Project state: 
-coding, no graphics
+coding, no graphics, 45% done
 
 ### Limitations: 
 
