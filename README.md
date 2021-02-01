@@ -16,6 +16,7 @@ OS, Windows
 ### Third party material: 
 
 ### Project state: 
+coding, no graphics
 
 ### Limitations: 
 
