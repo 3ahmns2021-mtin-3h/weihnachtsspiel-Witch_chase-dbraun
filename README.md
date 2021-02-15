@@ -10,9 +10,7 @@ Windows 10, Unity 2020, Visual Studio 2019
 WebGl, res: 960 x 600 - screen independant
 
 ### Visuals: 
-<div>
-<img src="./Screenshots/game_screenshot.jpg" width="250">
-</div>
+
 ### Necessary setup/execution steps: 
 none
 ### Third party material: 
