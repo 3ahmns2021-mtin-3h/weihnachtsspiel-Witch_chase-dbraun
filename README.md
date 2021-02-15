@@ -11,7 +11,7 @@ WebGl, res: 960 x 600 - screen independant
 
 ### Visuals: 
 <div>
-<img src="./Screenshots/game_screenshot.jpg" width="250">
+<img src="./Screenshots/game_screenshot.JPG" width="250">
 </div>
 ### Necessary setup/execution steps: 
 none
