@@ -1,7 +1,7 @@
 # Weihnachtspiel-witch-chase
 
 ### Project description: 
-Christmas themed game
+Christmas themed game with Collectables and a Counter
 
 ### Development platform: 
 Windows 10, Unity 2020, Visual Studio 2019
