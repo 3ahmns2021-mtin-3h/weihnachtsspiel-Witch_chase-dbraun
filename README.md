@@ -1,7 +1,7 @@
 # Weihnachtspiel-witch-chase
 
 ### Project description: 
-Christmas themed game with Collectables and a Counter
+Christmas themed game where you as the player collect collectable "Cookies" that add to your Counter. The goal is to have the highest Score possible.
 
 ### Development platform: 
 Windows 10, Unity 2020, Visual Studio 2019
