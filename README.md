@@ -3,6 +3,13 @@
 ### Project description: 
 Christmas themed game where you as the player collect collectable "Cookies" that add to your Counter. The goal is to have the highest Score possible.
 
+### MVPs:
+• Charakter fährt auf horizontaler Ebene
+• Counter wird auf der Box angezeigt
+• Collectables spawnen random
+• Gute Collectables erhöhen den Counter um 1 und schlechte Verringern ihn um 1
+• Nach einer Minute wird der Counter als Score gezählt
+
 ### Development platform: 
 Windows 10, Unity 2020, Visual Studio 2019
 
