@@ -5,9 +5,13 @@ Christmas themed game where you as the player collect collectable "Cookies" that
 
 ### MVPs:
 • Charakter fährt auf horizontaler Ebene
+
 • Counter wird auf der Box angezeigt
+
 • Collectables spawnen random
+
 • Gute Collectables erhöhen den Counter um 1 und schlechte Verringern ihn um 1
+
 • Nach einer Minute wird der Counter als Score gezählt
 
 ### Development platform: 
